@@ -1,0 +1,11 @@
+textblob  
+vaderSentiment  
+transformers  
+prettytable  
+deep-translator  
+SpeechRecognition  
+langdetect  
+termcolor  
+matplotlib  
+wordcloud  
+tqdm  
